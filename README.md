@@ -1,13 +1,16 @@
 # Dog-Cat-Image-Recognition
-Deployment CNN project for binary classification. Here, target is to predict whether sample image will be Dog or Cat.
+CNN project deployment for binary classification. Here, target is to predict whether sample image will be Dog or Cat.
 
 Application URL: https://dog-cat-image-recognition.herokuapp.com/
+
+Dataset: https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition/data
 
 1. The Dog vs. Cat Dataset
 Dogs vs. Cats dataset provided by Microsoft Research contains 25,000 images of dogs and cats with the labels
 
 1 = dog
 0 = cat
+
 2. Project goals
 Building a deep neural network using TensorFlow to classify dogs and cats images.
 
